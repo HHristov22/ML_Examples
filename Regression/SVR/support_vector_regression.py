@@ -44,9 +44,6 @@ plt.xlabel('X')
 plt.ylabel('y')
 plt.show()
 
-# Predicting a new result
-sc_y.inverse_transform(regressor.predict(sc_X.transform([[6.5]])).reshape(-1,1))
-
 # Visualising the SVR results
 plt.scatter(sc_X.inverse_transform(X), sc_y.inverse_transform(y), color = 'red')
 plt.plot(sc_X.inverse_transform(X), sc_y.inverse_transform(regressor.predict(X).reshape(-1,1)), color = 'blue')
