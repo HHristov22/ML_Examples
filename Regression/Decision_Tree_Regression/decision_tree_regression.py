@@ -1,4 +1,11 @@
-# Decision Tree Regression
+"""
+Decision Tree Regression
+
+This code implements Decision Tree Regression to predict a continuous target variable.
+Decision Tree Regression works by splitting the data into subsets based on the feature values. 
+At each split, it selects the feature that best separates the data, creating a tree structure of decision nodes and leaf nodes.
+Each leaf node contains a prediction, which is the average value of the data points in that node.
+"""
 
 # Importing the libraries
 import numpy as np
