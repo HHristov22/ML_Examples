@@ -63,6 +63,6 @@ plt.ylabel('Salary')
 plt.show()
 
 # Predicting a new result for level N
-N = 8  # Change this to any level you want to predict for
+N = 8
 predicted_salary_N = sc_y.inverse_transform(regressor.predict(sc_X.transform([[N]])).reshape(-1,1))
 print(f"The predicted salary for level {N} is: {round(predicted_salary_N[0, 0])}")
