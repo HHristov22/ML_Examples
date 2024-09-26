@@ -29,7 +29,7 @@ plt.show()
 def predict_salary(N):
     return model.predict(np.array([[N]]))
 
-# Example usage: predict salary for a user-defined number of years
+# Example usage
 input_years_experience = 6
 predicted_salary = predict_salary(input_years_experience)
 print(f"Yearly salary:{round(predicted_salary[0], 2)}")

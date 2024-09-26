@@ -48,8 +48,8 @@ plt.ylabel('Salary')
 plt.legend()
 plt.show()
 
-# Predicting the salary for 6 years of experience
-years_of_experience = np.array([[6]])  # input must be 2D array
+# Predicting the salary for N years of experience
+years_of_experience = np.array([[6]])
 predicted_salary = regressor.predict(years_of_experience)
 
-print(f"The predicted salary for 6 years of experience is: {predicted_salary[0]:.2f}")
+print(f"Predict salary for {years_of_experience[0][0]} years of experience: {round(predicted_salary[0], 2)}")
