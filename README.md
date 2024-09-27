@@ -29,5 +29,6 @@ This repository offers comprehensive code examples and exercises for various mac
 6. [Reinforcement Learning](./ReinforcementLearning/)
    - [Thompson Sampling](./ReinforcementLearning/ThompsonSampling/)
    - [Upper Confidence Bound (UCB)](./ReinforcementLearning/UpperConfidenceBound(UCB)/)
+7. [Natural Language Processing (NLP)](./NaturalLanguageProcessing/)
 
 
