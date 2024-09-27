@@ -19,8 +19,15 @@ This repository offers comprehensive code examples and exercises for various mac
    - [Naive Bayes](./Classification/Naive_bayes/)
    - [Decison Tree](./Classification/Decison_Tree/)
    - [Random Forest](./Classification/Random_forest/)
-3. [Clustering](./Clustering/)
+4. [Clustering](./Clustering/)
    - [K-Means](./Clustering/K-Means/)
    - [Hierachical](./Clustering/Hierachical/)
+5. [Association Rule Learning](./AssociationRuleLearning/)
+   - [Apriori](./AssociationRuleLearning/Apriori/)
+   - [Eclat](./AssociationRuleLearning/Eclat/)
+   - [FP-Growth](./AssociationRuleLearning/FP-Growth/)
+6. [Reinforcement Learning](./ReinforcementLearning/)
+   - [Thompson Sampling](./ReinforcementLearning/ThompsonSampling/)
+   - [Upper Confidence Bound (UCB)](./ReinforcementLearning/UpperConfidenceBound(UCB)/)
 
 
