@@ -5,7 +5,7 @@ This repository offers comprehensive code examples and exercises for various mac
 ## Table of Contents
 
 1. [Data Preprocessing](./DataPreprocessing/)
-3. [Regression](./Regression/)
+2. [Regression](./Regression/)
    - [Simple Linear](./Regression/Simple_Linear_Regression/)
    - [Multiple Linear](./Regression/Multiple_Linear_Regression/)
    - [Polynomial](./Regression/Polynomial_Regression/)
@@ -19,5 +19,8 @@ This repository offers comprehensive code examples and exercises for various mac
    - [Naive Bayes](./Classification/Naive_bayes/)
    - [Decison Tree](./Classification/Decison_Tree/)
    - [Random Forest](./Classification/Random_forest/)
+3. [Clustering](./Clustering/)
+   - [K-Means](./Clustering/K-Means/)
+   - [Hierachical](./Clustering/Hierachical/)
 
 
