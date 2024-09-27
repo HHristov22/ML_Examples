@@ -1,4 +1,18 @@
-# Random Forest Classification
+"""
+Random Forest Classification
+
+- Reduces overfitting by combining predictions from multiple trees.
+- Works well with both numerical and categorical data.
+- Provides higher accuracy compared to individual decision trees.
+- Can handle large datasets and complex classification tasks.
+- Robust against noise in the data.
+- Offers feature importance scores, which can be used for feature selection.
+
+Cons of Random Forest Classification:
+- Slower to predict and train with large datasets due to the use of many trees.
+- Difficult to interpret and visualize compared to single decision trees.
+- Can require significant computational resources, especially with many trees.
+"""
 
 # Importing the libraries
 import numpy as np
