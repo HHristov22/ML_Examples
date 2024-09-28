@@ -13,8 +13,11 @@ google-pasta==0.2.0
 grpcio==1.66.1
 h5py==3.12.1
 idna==3.10
+imagepreprocessing==1.7.2
 joblib==1.4.2
 keras==3.5.0
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
 kiwisolver==1.4.7
 kneed==0.8.5
 libclang==18.1.1
@@ -38,6 +41,7 @@ Pygments==2.18.0
 pyparsing==3.1.4
 python-dateutil==2.9.0.post0
 pytz==2024.2
+PyYAML==6.0.2
 regex==2024.9.11
 requests==2.32.3
 rich==13.8.1
