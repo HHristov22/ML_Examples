@@ -33,3 +33,7 @@ This repository offers comprehensive code examples and exercises for various mac
 8. [Deep Learning](./DeepLearning/)
    - [Artificial Neural Networks(ANN)](./DeepLearning/ArtificialNeuralNetworks(ANN)/)
    - [Convolutional Neural Networks(CNN)](./DeepLearning/ConvolutionalNeuralNetworks(CNN)/)
+9. [Dimensionality Reduction](./DimensionalityReduction/)
+   - [PCA](./DimensionalityReduction/PrincipalComponentAnalysis(PCA)/)
+   - [LDA](./DimensionalityReduction/LinearDiscriminantAnalysis(LDA)/)
+   - [Kernel PCA](./DimensionalityReduction/KernelPCA/)
