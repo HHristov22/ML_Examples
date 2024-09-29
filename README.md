@@ -37,3 +37,6 @@ This repository offers comprehensive code examples and exercises for various mac
    - [PCA](./DimensionalityReduction/PrincipalComponentAnalysis(PCA)/)
    - [LDA](./DimensionalityReduction/LinearDiscriminantAnalysis(LDA)/)
    - [Kernel PCA](./DimensionalityReduction/KernelPCA/)
+9. [Model Selection and Boosting](./ModelSelectionandBoosting/)
+   - [Model Selection](./ModelSelectionandBoosting/ModelSelection/)
+   - [XG Boost](./ModelSelectionandBoosting/XGBoost/)
