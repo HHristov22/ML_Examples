@@ -15,7 +15,7 @@ model_path = './DeepLearning/ConvolutionalNeuralNetworks(CNN)/cnn_model.h5'
 # Part 1 - Data Preprocessing
 # dataset -> https://www.kaggle.com/datasets/pushpakhinglaspure/cats-vs-dogs/data
 
-dataset_path = rf'/home/jesus/LocalDisk/dogs_vs_cats/'
+dataset_path = rf'/path/to/dataset/dogs_vs_cats/'
 # Preprocessing the Training set
 train_datagen = ImageDataGenerator(rescale = 1./255,
                                    shear_range = 0.2,
